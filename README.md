@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lla19381
+- 👋 Hi, I’m Alex
 - 💯 I’m a Front End Developer
 - 📖 I’m currently learning C#
 - 🤙 How to reach me: Discord @lla19381
